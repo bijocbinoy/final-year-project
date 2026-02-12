@@ -1,0 +1,55 @@
+METHODOLOGY 
+
+1️ Data Understanding
+
+Description of dataset
+
+Feature overview
+
+Target variable selection (treatment)
+
+EDA findings
+
+2️ Data Preprocessing
+
+Removal of unrealistic age values
+
+Standardisation of gender categories
+
+Handling missing values
+
+Dropping irrelevant columns
+
+Encoding categorical variables
+
+3️ Model Development
+
+Logistic Regression (baseline)
+
+Random Forest
+
+XGBoost
+
+4️ Model Evaluation
+
+Train-test split
+
+Cross-validation
+
+Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+
+5️ Explainability
+
+SHAP summary plots
+
+Feature importance analysis
+
+Interpretation of key predictors
+
+6️ Ethical Considerations
+
+Gender imbalance discussion
+
+Limitations of survey data
+
+Non-clinical interpretation
