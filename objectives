@@ -1,0 +1,15 @@
+##PROJECT OBJECTIVES
+
+To conduct exploratory data analysis (EDA) to understand the structure and characteristics of the dataset.
+
+To preprocess the dataset by handling missing values, cleaning inconsistent entries, and encoding categorical variables.
+
+To develop a baseline machine learning model for predicting mental health treatment.
+
+To develop and compare multiple machine learning models to evaluate predictive performance.
+
+To evaluate model performance using appropriate classification metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC).
+
+To apply SHAP explainability techniques to interpret model predictions and identify key influencing factors.
+
+To critically assess ethical considerations and potential bias in the modelling process.
