@@ -7,21 +7,21 @@ This project applies machine learning techniques to analyse and understand menta
 
 
 ## Objectives
-	•	Predict mental health treatment-seeking behaviour
-	•	Compare multiple machine learning models
-	•	Identify key influencing factors
-	•	Apply explainable AI techniques (EXP(B) and SHAP)
+Predict mental health treatment-seeking behaviour
+Compare multiple machine learning models
+Identify key influencing factors
+Apply explainable AI techniques (EXP(B) and SHAP)
 
 
 
 ## Dataset
-	•	Source: OSMI Mental Health Survey
-	•	Type: Structured (tabular) dataset
-	•	Size: ~1250 samples, 120+ features
-	•	Features include:
-	•	Demographics (Age, Gender)
-	•	Workplace factors
-	•	Mental health history
+Source: OSMI Mental Health Survey
+Type: Structured (tabular) dataset
+Size: ~1250 samples, 120+ features
+Features include:
+Demographics (Age, Gender)
+Workplace factors
+Mental health history
 
 
 ## Methodology
