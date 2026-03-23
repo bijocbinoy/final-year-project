@@ -1,6 +1,6 @@
 ###Mental Health Treatment Behaviour Analysis using Machine Learning
 
-##Overview
+## Overview
 
 This project applies machine learning techniques to analyse and understand mental health treatment-seeking behaviour using survey data. The goal is to identify key factors influencing whether individuals seek mental health support and to compare the performance of different models.
 
