@@ -63,8 +63,8 @@ This project applies machine learning techniques to analyse and understand menta
 ### Logistic Regression
  - Used EXP(B) (Odds Ratio)
  - Identified key predictors:
-   -- Work interference
-   -- Family history
+   - Work interference
+   - Family history
    - Care options
 
 ### SHAP (Random Forest)
