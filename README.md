@@ -73,14 +73,14 @@ This project applies machine learning techniques to analyse and understand menta
  - Captured feature interactions
 
  ## Neural Network Observation
-	-	Accuracy remained 77% across architectures
-	-	Model converged early
-	-	Limited improvement due to small dataset size
+	- Accuracy remained 77% across architectures
+	- Model converged early
+	- Limited improvement due to small dataset size
 
 ## Author
-Bijo Cheriyan Binoy
-MSc Data Science
-University of Hertfordshire
+- Bijo Cheriyan Binoy
+- MSc Data Science
+- University of Hertfordshire
 
 ## Final Note
 This project demonstrates how combining machine learning with explainability techniques can provide meaningful insights into mental health behaviour.
