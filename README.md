@@ -17,7 +17,7 @@ This project applies machine learning techniques to analyse and understand menta
 ## Dataset
 - Source: OSMI Mental Health Survey
 - Type: Structured (tabular) dataset
-- Size: ~1250 samples, 120+ features
+- Size: 1250 samples, 120+ features
 - Features include:
  - Demographics (Age, Gender)
  - Workplace factors
@@ -44,8 +44,17 @@ This project applies machine learning techniques to analyse and understand menta
 
 
 3️. Evaluation Metrics
-	•	Accuracy
-	•	Precision
-	•	Recall
-	•	F1-score
-	•	Confusion Matrix
+ - Accuracy
+ - Precision
+ - Recall
+ - F1-score
+ - Confusion Matrix
+
+##Results
+|Model     |     Accuracy  |
+|:-----------|----------------:|
+|Logistic Regression| 0.848|
+|Random Forest| 0.808|
+|XGBoost |0.804|
+|----------------------------|
+|Neural Network 0.776
