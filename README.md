@@ -50,10 +50,24 @@ This project applies machine learning techniques to analyse and understand menta
  - F1-score
  - Confusion Matrix
 
-##Results
+## Results
 |Model     |     Accuracy  |
 |:-----------|----------------:|
 |Logistic Regression| 0.848|
 |Random Forest| 0.808|
 |XGBoost |0.804|
 |Neural Network| 0.776|
+
+## Explainability
+
+### Logistic Regression
+ - Used EXP(B) (Odds Ratio)
+ - Identified key predictors:
+  - Work interference
+  - Family history
+  - Care options
+
+### SHAP (Random Forest)
+ - Identified important features
+ - Explained model predictions
+ - Captured feature interactions
