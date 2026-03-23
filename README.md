@@ -7,7 +7,7 @@ This project applies machine learning techniques to analyse and understand menta
 
 
 ## Objectives
-Predict mental health treatment-seeking behaviour
+- Predict mental health treatment-seeking behaviour
 Compare multiple machine learning models
 Identify key influencing factors
 Apply explainable AI techniques (EXP(B) and SHAP)
