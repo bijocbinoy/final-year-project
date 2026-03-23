@@ -1,4 +1,4 @@
-###Mental Health Treatment Behaviour Analysis using Machine Learning
+### Mental Health Treatment Behaviour Analysis using Machine Learning
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project applies machine learning techniques to analyse and understand menta
 
 
 
-##Objectives
+## Objectives
 	•	Predict mental health treatment-seeking behaviour
 	•	Compare multiple machine learning models
 	•	Identify key influencing factors
@@ -14,7 +14,7 @@ This project applies machine learning techniques to analyse and understand menta
 
 
 
-##Dataset
+## Dataset
 	•	Source: OSMI Mental Health Survey
 	•	Type: Structured (tabular) dataset
 	•	Size: ~1250 samples, 120+ features
@@ -24,7 +24,7 @@ This project applies machine learning techniques to analyse and understand menta
 	•	Mental health history
 
 
-##Methodology
+## Methodology
 
 1️. Data Preprocessing
 	•	Data cleaning
