@@ -1,4 +1,4 @@
-# Mental Health Treatment Behaviour Analysis using Machine Learning
+# MENTAL HEALTH TREATMENT SEEKING BEHAVIOUR PREDICTION USING MACHINE LEARNING
 
 ## Overview
 
